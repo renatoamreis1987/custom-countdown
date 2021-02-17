@@ -4,7 +4,7 @@
 
 A Project to implement a custom countdown with local storage. 
 
-[Project on GitHub Pages](https://github.com/renatoamreis1987/custom-countdown)
+[Project on GitHub Pages](https://renatoamreis1987.github.io/custom-countdown/)
 
 ## Built With
 
