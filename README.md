@@ -2,20 +2,17 @@
 
 ## About The Project
 
-A Project to implement the Picture-in-Picture Web API. 
+A Project to implement a custom countdown with local storage. 
 
-[Project on GitHub Pages](https://renatoamreis1987.github.io/picture-in-picture/)
+[Project on GitHub Pages](https://github.com/renatoamreis1987/custom-countdown)
 
 ## Built With
-
-- [Picture-in-Picture Web API](https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/)
-- [Screen Capture API](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture)
 
 <!-- ROADMAP -->
 
 ## Roadmap
 
-See the [open issues](https://github.com/renatoamreis1987/picture-in-picture/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/renatoamreis1987/custom-countdown/issues) for a list of proposed features (and known issues).
 
 <!-- CONTACT -->
 
